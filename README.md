@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishanvi26
-- 👀 I’m interested in becoming a pro at coding 
-- 🌱 I’m currently learning programming languages like python and C++
+- 👀 I’m a sophomore at Vellore Institute of technology, Vellore and enjoy coding 
+- 🌱 I’m currently learning programming languages like C, C++ and Java
 - 💞️ I’m looking to collaborate on different coding projects which will help me apply what i've learnt and expand my horizons 
 - 📫 You can reach me on instagram @ishanvi_2606
 <!---
