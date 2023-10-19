@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishanvi26
 - 👀 I’m a pre-final year student at Vellore Institute of technology, Vellore
-- 🌱 I’m currently working on projects to apply whatever I've learnt so far in my coding journey
+- 🌱 I’m currently working on AI/ML and MERN projects
 - 💞️ I’m looking to collaborate on different coding projects which will help me apply what i've learnt and expand my horizons 
 - 📫 You can reach me on linkedin @ishanvikotha
